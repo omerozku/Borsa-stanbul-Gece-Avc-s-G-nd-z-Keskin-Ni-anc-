@@ -1,0 +1,5 @@
+{
+  "name": "BIST Gece Avcısı & Gündüz Keskin Nişancısı",
+  "description": "Borsa İstanbul için Fibonacci ve hacim odaklı, iki aşamalı (Tarayıcı ve İzleyici) çalışan algoritmik sinyal botu.",
+  "requestFramePermissions": []
+}
